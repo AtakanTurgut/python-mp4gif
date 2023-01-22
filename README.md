@@ -1,4 +1,4 @@
-## Convert .mp4 to .gif .
+## Convert .mp4 to .gif 
 For convert mp4 to .gif, MoviePy module  must be installed first.
 - Download the latest [Python installer](https://www.python.org/downloads/) for your OS.
 I used [this website](https://www.alphr.com/pip-is-not-recognized-as-an-internal-or-external-command/#:~:text=Reinstall%20Python%20to%20Fix%20'Pip,components%20to%20fix%20the%20problem.) for help, you can have a look if you want.
