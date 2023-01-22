@@ -14,6 +14,7 @@ We write the video name to be converted in ' VideoFileClip("videoName.mp4") ' wi
 After the convert, we write the name and extension in ' video.write_gif("lastGifName.gif") '.
 
 <!--[gameCar](https://github.com/AtakanTurgut/python-mp4gif/blob/main/gifGame.gif)-->
+<img src="/gifGame.gif" width="250" height="200">
 
 ---
 ## Git Large File Storage (LFS)
