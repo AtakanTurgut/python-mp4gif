@@ -13,7 +13,7 @@ pip show moviePy
 We write the video name to be converted in ' VideoFileClip("videoName.mp4") ' with its extension.
 After the convert, we write the name and extension in ' video.write_gif("lastGifName.gif") '.
 
-![](/gifGame.gif)
+![](https://github.com/AtakanTurgut/python-mp-4-gif/blob/main/gifGame.gif)
 
 ---
 ## Git Large File Storage (LFS)
