@@ -19,6 +19,7 @@ After the convert, we write the name and extension in ' video.write_gif("lastGif
 ## Git Large File Storage (LFS)
 
 To push large files to github, we must first install the open source git plugin [Git LFS](https://git-lfs.com/).
+
 After the installation is finished, we go to the repository directory and start large file tracking for the relevant repo with the help of the following command.
 ```
 git lfs install
