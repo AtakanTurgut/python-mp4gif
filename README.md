@@ -11,7 +11,7 @@ pip install moviePy
 pip show moviePy
 ```
 We write the video name to be converted in ' VideoFileClip("videoName.mp4") ' with its extension.
-After the convert, we write the name and extension in ' video.write_gif("lastGifName.gif") '.
+After the convert, we write the name and extension in ' video.write_gif("[lastGifName.gif](https://github.com/AtakanTurgut/python-mp4gif/blob/main/gifGame.gif)") '.
 
 <!--[gameCar](https://github.com/AtakanTurgut/python-mp4gif/blob/main/gifGame.gif)-->
 
